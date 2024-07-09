@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="cities">My Cities</string>
+    <string name="cd_navigate_to_detail">Navigate to City Detail Screen</string>
+    <string name="cd_navigate_back">Navigate Back</string>
+    <string name="cd_weather_image">Weather Image</string>
+    <string name="ic_humidity">humidity icon</string>
+    <string name="humidity">Humidity</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="ic_wind">wind icon</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="ic_sunrise">ic_sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="ic_sunset">sunset icon</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="ic_pressure">pressure icon</string>
+    <string name="ic_visibility">visibility</string>
+    <string name="high_temp">High Temperature: %1$s °</string>
+    <string name="low_temp">Low Temperature: %1$s °</string>
+    <string name="humidity_value">%1$s %%</string>
+    <string name="speed_value">%1$s m/s</string>
+    <string name="visibility_value">%1$s km</string>
+    <string name="pressure_value">%1$s hPa</string>
+    <string name="contact_open_weather_service">Please contact Open Weather Service</string>
+    <string name="exceeded_free_limit_of_the_service">You have exceeded free limit of the service</string>
+    <string name="invalid_access_to_open_weather_map">You have invalid access to Open Weather Map Service</string>
+    <string name="no_city_found">No city found</string>
+    <string name="unable_to_reach_server_try_after_some_time">Unable to reach server. Try after some time!</string>
+    <string name="something_went_wrong_please_try_again_later">Something went wrong. Please try again later.</string>
+    <string name="no_internet_message">No internet connection. Please make sure you are connected with network.</string>
+    <string name="no_cities_found">No cities found</string>
+</resources>
